@@ -2,3 +2,5 @@ Hello World!
 
 Queste modifiche sono state effettuate nella branch1!
 --> e queste dalla Master per provare un git rebase!
+
+Quest'ultime modifiche per provare gli aggiornamenti locale - remoto con git push!
